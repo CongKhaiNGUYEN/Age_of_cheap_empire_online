@@ -1,0 +1,7 @@
+
+Execute both python main 
+then execute ./exe 
+then after like 10 sec after the connection is done you can send message with handle_send("") in python to both side/player
+
+
+execute python3 createpipe.py it will create pipe files and then put them in the two folders
